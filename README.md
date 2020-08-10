@@ -1,4 +1,4 @@
-### Hello sankt here! 👋
+### Hi sankt here! 👋
 
 <!--
 **bsanket16/bsanket16** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
